@@ -1,2 +1,2 @@
 # 2D_FISH_GAME
-THE PROJECT DEMONSTRATE 2D FISH GAME using html5, javascript.
+
